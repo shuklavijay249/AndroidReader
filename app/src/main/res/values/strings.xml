@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name"><center>Smart Book Android</center></string>
+    <string name="app_name1"><center>Android </center></string>
+    <string name="chapter1">INTRODUCTION</string>
+    <string name="chapter2">INSTALLATION OF \nANDROID STUDIO</string>
+    <string name="chapter3">JAVA BASICS</string>
+    <string name="chapter4">ACTIVITY AND INTENT</string>
+    <string name="chapter5">FRAGMENTS</string>
+    <string name="chapter6">MEDIA PLAYER</string>
+    <string name="chapter7">USER INTERFACE</string>
+    <string name="chapter8">SHOW MY LOCATION: \nUSING GPS AND MAPS</string>
+    <string name="chapter9">ANDRIOD APP # 5: SHOW MY LOCATION: \nUSING GPS AND MAPS</string>
+    <string name="chapter10">ANDRIOD APP # 6: S.O.S. \nMESSAGE SENDER</string>
+
+
+    <string name="Chap1pt1"><b>1.</b> What is Android?</string>
+    <string name="Chap1pt2"><b>2.</b> How Do Android Apps Work?</string>
+    <string name="Chap1pt3"><b>3.</b> Programming Languages Used  \n &#160;&#160; For Developing Apps</string>
+
+    <string name="Chap2pt1"><b>1.</b> Installation Of Android Studio</string>
+    <string name="Chap2pt2"><b>2.</b> Installation Of Emulators</string>
+    <string name="Chap2pt3"><b>3.</b> Create Android Project</string>
+
+    <string name="Chap3pt1"><b>1.</b> JAVA Basics</string>
+    <string name="Chap3pt2"><b>2.</b> JAVA For Android Development:  \n &#160;&#160;Reflection Basics</string>
+    <string name="Chap3pt3"><b>3.</b> Method Overloading and Overriding \n &#160;&#160;in JAVA</string>
+
+    <string name="Chap4pt2"><b>2.</b> Activity And Intent In Android</string>
+    <string name="Chap4pt1"><b>1.</b> Activity Life Cycle</string>
+    <string name="Chap4pt3"><b>3.</b> Run Activity For Result</string>
+
+
+    <string name="Chap5pt1"><b>1.</b> Fragment In Android</string>
+    <string name="Chap5pt2"><b>2.</b> Fragment Controller</string>
+    <string name="Chap5pt3"><b>3.</b> Fragment Transaction</string>
+
+    <string name="Chap6pt1"><b>1.</b> Media Player OverView</string>
+    <string name="Chap6pt2"><b>2.</b> Media Player Example</string>
+    <string name="Chap6pt3"><b>3.</b> Additional Resources for Media</string>
+
+    <string name="Chap7pt1"><b>1.</b> Build a Responsive UI with  \n &#160;&#160;ConstraintLayout  </string>
+    <string name="Chap7pt2"><b>2.</b> Implementing Adaptive UI Flows</string>
+    <string name="Chap7pt3"><b>3.</b> Relative Layout</string>
+
+    <string name="Chap8pt1"><b>1.</b>  What Is GPS Location</string>
+    <string name="Chap8pt2"><b>2.</b> How GPS Location Work</string>
+    <string name="Chap8pt3"><b>3.</b> Detect Location When User \n &#160;&#160;Start Activity</string>
+
+    <string name="Chap9pt1"><b>1.</b> What is JAVA ?</string>
+    <string name="Chap9pt2"><b>2.</b> Logical Decision Making Statements In JAVA</string>
+    <string name="Chap9pt3"><b>3.</b> Classes Object And Ineritance In JAVA</string>
+
+    <string name="Chap10pt1"><b>1.</b> What is JAVA ?</string>
+    <string name="Chap10pt2"><b>2.</b> Logical Decision Making Statements In JAVA</string>
+    <string name="Chap10pt3"><b>3.</b> Classes Object And Ineritance In JAVA</string>
+    <string name="chapter2title"><b>Chapter 2</b>\n &#160;&#160;Installation Of Android Studio</string>
+
+
+</resources>
